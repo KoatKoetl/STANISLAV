@@ -37,8 +37,8 @@ I'm an Frontend developer. My tech stack for now is React, SCSS/TailwindCSS, Typ
 
 #
 
-### 📊 Stats
+<!-- ### 📊 Stats -->
 <!--START_SECTION:activity-->          
-#### Maybe looks poor BUT it's only a START
-![KoatKoetl stats](https://github-readme-stats.vercel.app/api?username=koatkoetl&show_icons=true&theme=gruvbox)
+<!-- #### Maybe looks poor BUT it's only a START
+![KoatKoetl stats](https://github-readme-stats.vercel.app/api?username=koatkoetl&show_icons=true&theme=gruvbox) -->
 <!--END_SECTION:activity-->
